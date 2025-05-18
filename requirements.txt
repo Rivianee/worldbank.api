@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn==0.34.0
+beautifulsoup4==4.12.0
+requests==2.32.0
+pandas==1.5.3
+nest-asyncio==1.6.0
