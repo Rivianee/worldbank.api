@@ -2,6 +2,9 @@
 
 Uma API RESTful que fornece acesso a dados econômicos e sociais de países coletados do site do Banco Mundial.
 
+Acesse a API em: http://127.0.0.1:9999
+Documentação em: http://127.0.0.1:9999/docs
+
 ## Descrição
 
 Este projeto realiza web scraping do site oficial do Banco Mundial (https://data.worldbank.org/country) para coletar dados sobre países e seus indicadores econômicos, sociais, ambientais e institucionais. Os dados são processados, armazenados em um banco de dados SQLite e disponibilizados através de uma API RESTful construída com FastAPI.
